@@ -1,4 +1,7 @@
 commit 1
+<<<<<<< HEAD
 commit 2
 commit 3
 commit 4
+=======
+>>>>>>> parent of cac3529... 2nd commit
